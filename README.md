@@ -1,19 +1,21 @@
-Análisis de Datos: La Realidad de la Calidad del Aire en Mexicali
+**Análisis de Datos:**
+
+La Realidad de la Calidad del Aire en Mexicali
 
 Hipótesis: ¿La contaminación en Mexicali es exclusiva del invierno o es un problema sistémico de todo el año?
 
 Este repositorio contiene un Análisis Exploratorio de Datos (EDA) sobre las concentraciones de partículas PM2.5 en Mexicali, Baja California. El proyecto nace de la necesidad de verificar con datos duros la narrativa común de que "la contaminación es solo por fechas festivas", contrastándola con la realidad estadística.
 
 Contenido del Repositorio
-*Auditoría de Datos:** Limpieza y validación de datasets históricos (AQICN).
-*Análisis Estacional:** Comportamiento de los contaminantes mes a mes.
-*Ciclo Semanal:** Comparativa entre días laborales y fines de semana.
+**Auditoría de Datos:** Limpieza y validación de datasets históricos (AQICN).
+**Análisis Estacional:** Comportamiento de los contaminantes mes a mes.
+**Ciclo Semanal:** Comparativa entre días laborales y fines de semana.
 
 Tecnologías
-*Python 3
-*Pandas: Manipulación de series de tiempo y limpieza ETL.
-*Seaborn & Matplotlib: Visualización estadística (Boxplots, Heatmaps).
-*Data Source: World Air Quality Index Project (AQICN).
+**Python 3**
+**Pandas:** Manipulación de series de tiempo y limpieza ETL.
+**Seaborn & Matplotlib:** Visualización estadística (Boxplots, Heatmaps).
+**Data Source:** World Air Quality Index Project (AQICN).
 
 Hallazgos Clave (Data-Driven)
 
@@ -36,4 +38,5 @@ Este análisis utiliza datos históricos agregados. Se eligió el dataset de AQI
 ---
 *Autor: Miguel Angel Lopez Veloz
 *Estudiante de Ingeniería en Desarrollo de Software | Mexicali, B.C.
+
 2025
